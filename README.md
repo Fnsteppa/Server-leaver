@@ -1,4 +1,4 @@
-### 8300  DISCORD SERVER LEAVER VERISON:
+### 886  DISCORD SERVER LEAVER VERISON:
 server leaver it leave all your server 
 
 ### Current Worked Benchmarks:
@@ -8,4 +8,4 @@ server leaver it leave all your server
 
 | SS OF THE TOOL| 
 | ------------- | 
-| ![image](https://cdn.discordapp.com/attachments/830900122376208405/843073858105638912/unknown.png) |
+| ![image](https://media.discordapp.net/attachments/845712592948559873/870073622151184444/unknown.png) |
